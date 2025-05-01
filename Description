@@ -1,2 +1,0 @@
-This project showcases a comprehensive SQL practice using the Movie Database Case from W3Resource (https://www.w3resource.com/sql-exercises/movie-database-exercise/index.php). The exercise covers the full cycle of database development — from designing relational schemas to solving 50  real-world SQL problems using Common Table Expressions (CTEs) as the main query structure. All development and testing were performed using MySQL Workbench.
-
